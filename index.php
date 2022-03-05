@@ -6,5 +6,5 @@ require_once "Models/usuario.php";
     $p = new Plantilla();
     $p-> login();
 
-    
+    //bien 
 ?>

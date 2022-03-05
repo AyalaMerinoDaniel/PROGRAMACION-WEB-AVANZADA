@@ -52,7 +52,7 @@
         </div>
         <?php
             require_once "../Controllers/controlador.php";           
-
+//aquí no debería abrir ningún archivo
             $l = new UsersController();
             $l->conecta();
         ?>
