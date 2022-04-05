@@ -1,3 +1,6 @@
-Kevin Alexander Soto Romero 
-Carlos Joel Garibay Garcia, Charly
-Esdras Daniel Ayala Merino 
+# PROGRAMACION-WEB-AVANZADA
+Integrantes:
+Esdras Daniel Ayala Merino
+Carlos Joel Garibay Garcia 
+Kevin Alexander Soto Romero
+Edito:Carlos Joel
