@@ -5,5 +5,5 @@ require_once "Controllers/controlador.php";
 require_once "Models/usuario.php";
    
    $p = new PersControlador();
-   $p -> ctrAction();
+   $p -> ctrAccion();
 ?>

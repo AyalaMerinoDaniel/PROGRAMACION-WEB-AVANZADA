@@ -1,5 +1,5 @@
 <?php
-require_once "../Models/usuario.php";
+require_once "Models/usuario.php";
 
 	class Usuarios{
 		static public function ingreso() {
@@ -12,7 +12,7 @@ require_once "../Models/usuario.php";
 					if( $r["contra"] == $_POST['ingContra']) {
 						$_SESSION['ingreso'] = '0k';
 						echo '<script>
-							window.location = "usuario.php";
+							window.location = "usuario";
 							</script>';
 						}
                 

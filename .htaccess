@@ -8,4 +8,4 @@
 Options All -Indexes
 
 RewriteEngine On
-RewriteRule ^(agenda/[-a-zA-Z0-9]+)$ /agenda/index.php?ruta=$1
+RewriteRule ^([-a-zA-Z0-9]+)$ index.php?ruta=$1
