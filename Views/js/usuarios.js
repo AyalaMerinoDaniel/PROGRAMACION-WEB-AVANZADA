@@ -1,6 +1,7 @@
-$("#foto").change(function() {
-  var imagen = this.files[0];                
-    if(imagen["type"] != "image/jpg" && imagen["type"] != "image/png")
+$(".nuevaFoto").change(function() {
+  var imagen = this.files[0];  
+	console.log ("imagen",imagen);
+    if(imagen["type"] != "image/jpeg" && imagen["type"] != "image/png")
         {
             console.log("Error tipo de archivo"); 
             $("#foto").val("");
