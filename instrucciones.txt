@@ -1,4 +1,0 @@
-Favor de crear un archivo readme donde incluyan el nombre completo de los integrantes del equipo.
-La primer tarea incluye un proyecto agenda donde puedan crear registros desde la página.
- --- Se puedan identificar de la página e impedir el acceso a aquellos usuarios no identificados
- 
