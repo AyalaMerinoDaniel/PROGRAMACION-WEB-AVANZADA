@@ -8,7 +8,7 @@ Proyecto de la materia Programación web avanzada
 - Kevin Alexander Soto Romero (100)
 
 ### *Revisó:
-- Cuauhtémoc Gómez Suárez
+- Cuauhtémoc G.
 - [x] Uso de GitHub 
  - 5  AyalaMerinoDaniel <80376361+AyalaMerinoDaniel@users.noreply.github.com>
  - 4  AyalaMerinoDaniel 
