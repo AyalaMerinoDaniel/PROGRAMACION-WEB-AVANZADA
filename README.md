@@ -5,7 +5,7 @@ Proyecto de la materia Programación web avanzada
 
 - Esdras Daniel Ayala Merino  (100)
 - Carlos Joel Garibay Garcia  (100) 
-- Kevin Alexander Soto Romero 
+- Kevin Alexander Soto Romero (100)
 
 ### *Revisó:
 - Cuauhtémoc Gómez Suárez
