@@ -5,16 +5,16 @@ Proyecto de la materia Programación web avanzada
 
 - Esdras Daniel Ayala Merino  (100)
 - Carlos Joel Garibay Garcia  (100) 
-- Kevin Alexander Soto Romero (100)
+- Kevin Alexander Soto Romero 
 
 ### *Revisó:
 - Cuauhtémoc Gómez Suárez
 - [x] Uso de GitHub 
  - 5  AyalaMerinoDaniel <80376361+AyalaMerinoDaniel@users.noreply.github.com>
- - 4  AyalaMerinoDaniel <esdras.ayala.merino@gmail.com>
- - 3  Kevin2503123 <99374560+Kevin2503123@users.noreply.github.com>
- - 2  CarlosJoelGaribayGarcia <99382992+CarlosJoelGaribayGarcia@users.noreply.github.com>
- - 1  cuauhtemoc-gs <cuauhtemoc.gs@morelia.tecnm.mx>
+ - 4  AyalaMerinoDaniel 
+ - 3  Kevin2503123 
+ - 2  CarlosJoelGaribayGarcia 
+ - 1  cuauhtemoc-gs 
 
 
 - [x] Manejo de llamadas asíncronas
